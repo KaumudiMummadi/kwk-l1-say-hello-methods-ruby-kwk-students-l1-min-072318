@@ -1,8 +1,8 @@
-def say_hello(your_name= "Karlie Kloss")
+def say_hello(your_name= "Gabby")
   puts "Hello #{your_name}!"
 end
 
-say_hello("Klossy")
+say_hello("Gabriela")
 
 
       
